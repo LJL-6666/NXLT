@@ -92,7 +92,7 @@ Python  基于spacy和word2vec计算相似度.ipynb
 
 通过对txt结果进行数据框的转化，实现excel的输出。
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11764\wps3.jpg) 
+![image](https://user-images.githubusercontent.com/60246446/216748621-d5db3094-078c-4bdf-997d-da97e7fa8a59.png)
 
  
 
