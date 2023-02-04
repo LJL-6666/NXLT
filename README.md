@@ -4,7 +4,8 @@
 
 基于python语言用Tkinter完成了数据导入导出程序的开发，实现txt和excel文件互换的功能以及excel数据上传数据库时设置配置文件并给出如列名是否存在 ，个别必空字段 、必填字段 、字段长度限制， 时间格式规范是否合法等具体规范修改反馈。
 
-![image-20230204121333014](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230204121333014.png)
+![image](https://user-images.githubusercontent.com/60246446/216748544-71950d90-f19f-4b83-a6b7-bddcb1b73525.png)
+
 
 软件说明：
 
