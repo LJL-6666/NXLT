@@ -12,7 +12,7 @@
 该软件总体分为俩个渠道，一个无限制条件直接转化，另一个需上传配置文件（需确保excel列名和配置文件中的列名及表名一致），然后检测，输出检测结果。
 使用效果：
 
-![image-20230204121916264](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230204121916264.png)
+![image](https://user-images.githubusercontent.com/60246446/216748567-f743475e-8cd9-4aaa-8116-c2debe0d8bdf.png)
 
 
 
@@ -44,7 +44,7 @@
 
 通过检索输出的json结果文件sim_project中的id来实现相似度查询。可以将计算出来的文档向量另存为txt文档保存，定期更新，每次查询计算相似度。
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11764\wps1.jpg) 
+![image](https://user-images.githubusercontent.com/60246446/216748574-f7aec821-0be6-4f00-8824-a352a95269e3.png)
 
   
 
@@ -84,7 +84,7 @@ Python  基于spacy和word2vec计算相似度.ipynb
 
 输出：txt结果文档（可转化为一个Excel的多个sheet输出，也可直接以id检索提取），output中查看：
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml11764\wps2.jpg) 
+![image](https://user-images.githubusercontent.com/60246446/216748591-6d74dd75-3033-429d-ac88-a80259f2a40a.png)
 
  
 
